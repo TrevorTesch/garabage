@@ -1,5 +1,6 @@
 # Ramazing
-**Ramazing** is a secure, unique proxy, with new encryption and cool features regarding the big update. You are in good hands. Just run in the terminal (npm install && npm start) to run it. **THE BEST TABBED PROXY.**
+>
+> NOTE: THIS IS NOW A ARCHIEVE AND ISN'T ACTIVE ANYMORE. THANKS
 
 ---
 
